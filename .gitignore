@@ -1,0 +1,6 @@
+out
+out/**
+**/out/**
+**/out
+/libs
+/.idea/shelf

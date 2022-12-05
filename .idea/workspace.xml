@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a90827c8-ae16-4a11-b0bd-dda67182bc96" name="Changes" comment="Mise en place des stats pour les moniteur mais sans les graph">
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmGraphiqueEleve.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmGraphiqueEleve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmGraphiqueMoniteur.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vues/FrmGraphiqueMoniteur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controlers/CtrlUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controlers/CtrlUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vues/FrmConsultationChiffre.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vues/FrmConsultationChiffre.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vues/FrmConsultationChiffre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vues/FrmConsultationChiffre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vues/FrmEleveStats.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vues/FrmEleveStats.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vues/FrmEleveStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vues/FrmEleveStats.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HWwVparljQ6yM3btw63QcUKJxV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Matiere Java/ExosGraphiques",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Matiere Java\BST-SIO-G1-2023-AutoEcole-Software\src\Vues" />
+      <recent name="C:\Users\anthonin\Documents\BST-SIO-G1-2023-AutoEcole-Software\libs" />
+      <recent name="C:\Users\anthonin\Documents\BST-SIO-G1-2023-AutoEcole-Software\src\Controlers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anthonin\Desktop\BST-SIO-G1-2023-AutoEcole-Software" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RUN" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BST-SIO-G1-2023-AutoEcole-Software" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a90827c8-ae16-4a11-b0bd-dda67182bc96" name="Changes" comment="ajout bdd" />
+      <created>1668414173725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668414173725</updated>
+      <workItem from="1668423988358" duration="1626000" />
+      <workItem from="1668497633120" duration="47000" />
+      <workItem from="1668510514316" duration="388000" />
+      <workItem from="1669220953288" duration="57000" />
+      <workItem from="1669651246254" duration="1785000" />
+      <workItem from="1669731554179" duration="169000" />
+      <workItem from="1669818473772" duration="1313000" />
+      <workItem from="1669830602780" duration="302000" />
+      <workItem from="1669834316634" duration="3762000" />
+      <workItem from="1669883778744" duration="15576000" />
+      <workItem from="1669966610280" duration="7654000" />
+      <workItem from="1669983451863" duration="1296000" />
+      <workItem from="1670011007330" duration="7917000" />
+      <workItem from="1670066876483" duration="1777000" />
+      <workItem from="1670154456682" duration="10069000" />
+      <workItem from="1670173873429" duration="11034000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ajout du FrmConnexion">
+      <created>1668424280328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668424280328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ajout du FrmEleve et fix du FrmConnexion">
+      <created>1668425532781</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668425532781</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modif git ignore">
+      <created>1669622570561</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669622570561</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ajout Planning">
+      <created>1669807254332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669807254332</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ajout de Ajout Licence">
+      <created>1669909948683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669909948683</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajout de Ajout Licence">
+      <created>1669966697949</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669966697949</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Probleme eleveCours">
+      <created>1669984589274</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669984589274</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Ajout Lecon">
+      <created>1670024201924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670024201924</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Mise en place des boutons Retour et deconnexion">
+      <created>1670067805492</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670067805492</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Mise en place des stats pour les eleves mais sans les graph">
+      <created>1670164002674</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670164002674</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Mise en place des stats pour les eleves mais sans les graph">
+      <created>1670174370301</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670174370301</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Mise en place des stats pour les moniteur mais sans les graph">
+      <created>1670177138756</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670177138756</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Mise en place des stats pour les moniteur mais sans les graph">
+      <created>1670177748542</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670177748542</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modif git ignore" />
+    <MESSAGE value="Ajout Planning" />
+    <MESSAGE value="Ajout de Ajout Licence" />
+    <MESSAGE value="Probleme eleveCours" />
+    <MESSAGE value="Ajout Lecon" />
+    <MESSAGE value="Mise en place des boutons Retour et deconnexion" />
+    <MESSAGE value="Mise en place des stats pour les eleves mais sans les graph" />
+    <MESSAGE value="Mise en place des stats pour les moniteur mais sans les graph" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mise en place des stats pour les moniteur mais sans les graph" />
+  </component>
+</project>
